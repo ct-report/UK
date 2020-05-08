@@ -1,9 +1,9 @@
 # UK
 Contact Tracing - United Kingdom
 
-**NHS COVID-19** developed by Palantir for UK NHS. Centralized solution.
+**NHS COVID-19** developed by Palantir for UK NHS. Centralized solution. It uses bluetooth for proximity tracing + GPS (device location).
 
-Trials in progress (Isle of Wight).
+Trials in progress (Isle of Wight). Current test-builds require at least Android API Level 24 (Nougat 7.0).
 
 Play Store | https://play.google.com/store/apps/details?id=uk.nhs.nhsx.colocate
 -----------|-------------------------------------------------------------------
