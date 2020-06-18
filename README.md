@@ -5,6 +5,8 @@ Contact Tracing - United Kingdom
 
 Trials in progress (Isle of Wight). Current test-builds require at least Android API Level 24 (Nougat 7.0).
 
+**On June 18th the BBC reported [HERE](https://www.bbc.co.uk/news/amp/technology-53095336) that the UK app will switch from its centralized architecture to a decentralized one - based on GAEN Google+Apple Exposure Notification API framework.**
+ 
 Play Store | https://play.google.com/store/apps/details?id=uk.nhs.nhsx.colocate
 -----------|-------------------------------------------------------------------
 Sources | https://github.com/NHSX
